@@ -14,6 +14,7 @@
       rel="stylesheet"
       href="bower_components/bootstrap/dist/css/bootstrap.min.css"
     />
+    
     <!-- Font Awesome -->
     <link
       rel="stylesheet"
