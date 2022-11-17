@@ -1,0 +1,22 @@
+{
+    "remotePath": "./abc-chicken-center.is-great.net/htdocs",
+    "host": "ftpupload.net",
+    "username": "epiz_32968153",
+    "password": "9cLcFv93ECj8qM",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [],
+    "generatedFiles": {
+        "extensionsToInclude": [],
+        "path": ""
+    },
+    "detailedSyncSummary": true
+}
